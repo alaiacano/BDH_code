@@ -1,0 +1,1 @@
+This is the code from my chapter in [Bad Data Handbook](http://shop.oreilly.com/product/0636920024422.do). It's a fairly simple web scraper that pulls teacher performance data released under the [No Child Left Behind Act](http://en.wikipedia.org/wiki/No_Child_Left_Behind_Act).
